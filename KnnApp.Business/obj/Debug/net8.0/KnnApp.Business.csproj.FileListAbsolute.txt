@@ -1,0 +1,17 @@
+C:\Users\eyvaz\source\repos\KnnApp\KnnApp.Business\bin\Debug\net8.0\KnnApp.Business.deps.json
+C:\Users\eyvaz\source\repos\KnnApp\KnnApp.Business\bin\Debug\net8.0\KnnApp.Business.dll
+C:\Users\eyvaz\source\repos\KnnApp\KnnApp.Business\bin\Debug\net8.0\KnnApp.Business.pdb
+C:\Users\eyvaz\source\repos\KnnApp\KnnApp.Business\bin\Debug\net8.0\KnnApp.Core.dll
+C:\Users\eyvaz\source\repos\KnnApp\KnnApp.Business\bin\Debug\net8.0\KnnApp.DAL.dll
+C:\Users\eyvaz\source\repos\KnnApp\KnnApp.Business\bin\Debug\net8.0\KnnApp.DAL.pdb
+C:\Users\eyvaz\source\repos\KnnApp\KnnApp.Business\bin\Debug\net8.0\KnnApp.Core.pdb
+C:\Users\eyvaz\source\repos\KnnApp\KnnApp.Business\obj\Debug\net8.0\KnnApp.Business.csproj.AssemblyReference.cache
+C:\Users\eyvaz\source\repos\KnnApp\KnnApp.Business\obj\Debug\net8.0\KnnApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eyvaz\source\repos\KnnApp\KnnApp.Business\obj\Debug\net8.0\KnnApp.Business.AssemblyInfoInputs.cache
+C:\Users\eyvaz\source\repos\KnnApp\KnnApp.Business\obj\Debug\net8.0\KnnApp.Business.AssemblyInfo.cs
+C:\Users\eyvaz\source\repos\KnnApp\KnnApp.Business\obj\Debug\net8.0\KnnApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\eyvaz\source\repos\KnnApp\KnnApp.Business\obj\Debug\net8.0\KnnApp.B.C5C86F5C.Up2Date
+C:\Users\eyvaz\source\repos\KnnApp\KnnApp.Business\obj\Debug\net8.0\KnnApp.Business.dll
+C:\Users\eyvaz\source\repos\KnnApp\KnnApp.Business\obj\Debug\net8.0\refint\KnnApp.Business.dll
+C:\Users\eyvaz\source\repos\KnnApp\KnnApp.Business\obj\Debug\net8.0\KnnApp.Business.pdb
+C:\Users\eyvaz\source\repos\KnnApp\KnnApp.Business\obj\Debug\net8.0\ref\KnnApp.Business.dll
