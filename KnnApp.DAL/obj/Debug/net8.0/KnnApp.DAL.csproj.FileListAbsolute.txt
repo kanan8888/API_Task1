@@ -15,3 +15,4 @@ C:\Users\eyvaz\source\repos\KnnApp\KnnApp.DAL\obj\Debug\net8.0\refint\KnnApp.DAL
 C:\Users\eyvaz\source\repos\KnnApp\KnnApp.DAL\obj\Debug\net8.0\KnnApp.DAL.pdb
 C:\Users\eyvaz\source\repos\KnnApp\KnnApp.DAL\obj\Debug\net8.0\KnnApp.DAL.genruntimeconfig.cache
 C:\Users\eyvaz\source\repos\KnnApp\KnnApp.DAL\obj\Debug\net8.0\ref\KnnApp.DAL.dll
+C:\Users\eyvaz\source\repos\KnnApp\KnnApp.DAL\obj\Debug\net8.0\KnnApp.DAL.sourcelink.json

@@ -180,3 +180,4 @@ C:\Users\eyvaz\source\repos\KnnApp\KnnApp.API\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\eyvaz\source\repos\KnnApp\KnnApp.API\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\eyvaz\source\repos\KnnApp\KnnApp.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\Users\eyvaz\source\repos\KnnApp\KnnApp.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\eyvaz\source\repos\KnnApp\KnnApp.API\obj\Debug\net8.0\KnnApp.API.sourcelink.json

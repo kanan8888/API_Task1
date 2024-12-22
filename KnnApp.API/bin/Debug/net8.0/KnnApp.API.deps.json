@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v8.0": {
       "KnnApp.API/1.0.0": {
         "dependencies": {
+          "AutoMapper": "13.0.1",
           "KnnApp.Business": "1.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "9.0.0",
           "Swashbuckle.AspNetCore": "6.6.2"

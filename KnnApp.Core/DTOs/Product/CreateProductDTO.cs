@@ -22,12 +22,12 @@ public class CreateProductValidator : AbstractValidator<CreateProductDTO>
             .NotNull().WithMessage("null ola bilmez")
             .NotEmpty().WithMessage("bos ola bilmez")
             .MinimumLength(3).WithMessage("min uzunluq 3 olmali")
-            .MaximumLength(20).WithMessage("max uzunluq 20 olmali");
+            .MaximumLength(50).WithMessage("max uzunluq 20 olmali");
         RuleFor(x => x.Description)
             .NotNull().WithMessage("null ola bilmez")
             .NotEmpty().WithMessage("bos ola bilmez")
             .MinimumLength(3).WithMessage("min uzunluq 3 olmali")
-            .MaximumLength(50).WithMessage("max uzunluq 50 olmali");
+            .MaximumLength(500).WithMessage("max uzunluq 50 olmali");
         RuleFor(x => x.Price)
             .NotNull().WithMessage("null ola bilmez")
             .NotEmpty().WithMessage("bos ola bilmez")

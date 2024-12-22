@@ -10,3 +10,4 @@ C:\Users\eyvaz\source\repos\KnnApp\KnnApp.Core\obj\Debug\net8.0\refint\KnnApp.Co
 C:\Users\eyvaz\source\repos\KnnApp\KnnApp.Core\obj\Debug\net8.0\KnnApp.Core.pdb
 C:\Users\eyvaz\source\repos\KnnApp\KnnApp.Core\obj\Debug\net8.0\ref\KnnApp.Core.dll
 C:\Users\eyvaz\source\repos\KnnApp\KnnApp.Core\obj\Debug\net8.0\KnnApp.Core.csproj.AssemblyReference.cache
+C:\Users\eyvaz\source\repos\KnnApp\KnnApp.Core\obj\Debug\net8.0\KnnApp.Core.sourcelink.json

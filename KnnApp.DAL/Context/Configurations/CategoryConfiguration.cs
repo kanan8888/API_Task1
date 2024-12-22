@@ -8,12 +8,24 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace KnnApp.DAL.Context.Configurations;
-internal class CategoryConfiguration : IEntityTypeConfiguration<Category>
+public class CategoryConfiguration : IEntityTypeConfiguration<Category>
 {
     public void Configure(EntityTypeBuilder<Category> builder)
     {
-        builder.Property(x =>x.CategoryName)
-            .IsRequired()
-            .HasMaxLength(20);
+        builder.HasKey(x => x.Id);
+
+        builder.Property(x => x.Id)
+               .ValueGeneratedOnAdd();
+
+        builder.Property(x => x.CategoryName)
+               .IsRequired()
+               .HasMaxLength(20);
+
+        builder.HasMany(x => x.Products)
+               .WithOne()
+               .HasForeignKey("CategoryId")
+               .OnDelete(DeleteBehavior.Cascade);
+
+        builder.ToTable("Categories");
     }
 }
