@@ -3,6 +3,78 @@
   "WorkspaceRootPath": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1D70B1E9-19BE-4DAA-834A-2E4C9483BCBA}|KnnApp.Business\\KnnApp.Business.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.business\\helper\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D70B1E9-19BE-4DAA-834A-2E4C9483BCBA}|KnnApp.Business\\KnnApp.Business.csproj|solutionrelative:knnapp.business\\helper\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0643E33-613B-4D85-B39D-4D8DCE975996}|KnnApp.API\\KnnApp.API.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0643E33-613B-4D85-B39D-4D8DCE975996}|KnnApp.API\\KnnApp.API.csproj|solutionrelative:knnapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D70B1E9-19BE-4DAA-834A-2E4C9483BCBA}|KnnApp.Business\\KnnApp.Business.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.business\\businessserviceregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D70B1E9-19BE-4DAA-834A-2E4C9483BCBA}|KnnApp.Business\\KnnApp.Business.csproj|solutionrelative:knnapp.business\\businessserviceregisteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D70B1E9-19BE-4DAA-834A-2E4C9483BCBA}|KnnApp.Business\\KnnApp.Business.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.business\\services\\implementation\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D70B1E9-19BE-4DAA-834A-2E4C9483BCBA}|KnnApp.Business\\KnnApp.Business.csproj|solutionrelative:knnapp.business\\services\\implementation\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D70B1E9-19BE-4DAA-834A-2E4C9483BCBA}|KnnApp.Business\\KnnApp.Business.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.business\\helper\\exceptions\\common\\negativeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D70B1E9-19BE-4DAA-834A-2E4C9483BCBA}|KnnApp.Business\\KnnApp.Business.csproj|solutionrelative:knnapp.business\\helper\\exceptions\\common\\negativeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D70B1E9-19BE-4DAA-834A-2E4C9483BCBA}|KnnApp.Business\\KnnApp.Business.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.business\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D70B1E9-19BE-4DAA-834A-2E4C9483BCBA}|KnnApp.Business\\KnnApp.Business.csproj|solutionrelative:knnapp.business\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C36059-81A4-4800-91BD-1F144BD7EE7A}|KnnApp.Core\\KnnApp.Core.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.core\\dtos\\category\\getallcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C36059-81A4-4800-91BD-1F144BD7EE7A}|KnnApp.Core\\KnnApp.Core.csproj|solutionrelative:knnapp.core\\dtos\\category\\getallcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C36059-81A4-4800-91BD-1F144BD7EE7A}|KnnApp.Core\\KnnApp.Core.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.core\\dtos\\category\\getcagegorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C36059-81A4-4800-91BD-1F144BD7EE7A}|KnnApp.Core\\KnnApp.Core.csproj|solutionrelative:knnapp.core\\dtos\\category\\getcagegorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C36059-81A4-4800-91BD-1F144BD7EE7A}|KnnApp.Core\\KnnApp.Core.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.core\\dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C36059-81A4-4800-91BD-1F144BD7EE7A}|KnnApp.Core\\KnnApp.Core.csproj|solutionrelative:knnapp.core\\dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C36059-81A4-4800-91BD-1F144BD7EE7A}|KnnApp.Core\\KnnApp.Core.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.core\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C36059-81A4-4800-91BD-1F144BD7EE7A}|KnnApp.Core\\KnnApp.Core.csproj|solutionrelative:knnapp.core\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633096B2-4D58-4AD9-99E5-A713F5B5E969}|KnnApp.DAL\\KnnApp.DAL.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.dal\\repositories\\\u0130mplementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633096B2-4D58-4AD9-99E5-A713F5B5E969}|KnnApp.DAL\\KnnApp.DAL.csproj|solutionrelative:knnapp.dal\\repositories\\\u0130mplementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633096B2-4D58-4AD9-99E5-A713F5B5E969}|KnnApp.DAL\\KnnApp.DAL.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.dal\\repositories\\\u0130nterfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633096B2-4D58-4AD9-99E5-A713F5B5E969}|KnnApp.DAL\\KnnApp.DAL.csproj|solutionrelative:knnapp.dal\\repositories\\\u0130nterfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633096B2-4D58-4AD9-99E5-A713F5B5E969}|KnnApp.DAL\\KnnApp.DAL.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.dal\\repositories\\\u0130mplementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633096B2-4D58-4AD9-99E5-A713F5B5E969}|KnnApp.DAL\\KnnApp.DAL.csproj|solutionrelative:knnapp.dal\\repositories\\\u0130mplementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633096B2-4D58-4AD9-99E5-A713F5B5E969}|KnnApp.DAL\\KnnApp.DAL.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.dal\\repositories\\\u0130nterfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633096B2-4D58-4AD9-99E5-A713F5B5E969}|KnnApp.DAL\\KnnApp.DAL.csproj|solutionrelative:knnapp.dal\\repositories\\\u0130nterfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D70B1E9-19BE-4DAA-834A-2E4C9483BCBA}|KnnApp.Business\\KnnApp.Business.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.business\\knnapp.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D70B1E9-19BE-4DAA-834A-2E4C9483BCBA}|KnnApp.Business\\KnnApp.Business.csproj|solutionrelative:knnapp.business\\knnapp.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C36059-81A4-4800-91BD-1F144BD7EE7A}|KnnApp.Core\\KnnApp.Core.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.core\\entityes\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C36059-81A4-4800-91BD-1F144BD7EE7A}|KnnApp.Core\\KnnApp.Core.csproj|solutionrelative:knnapp.core\\entityes\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633096B2-4D58-4AD9-99E5-A713F5B5E969}|KnnApp.DAL\\KnnApp.DAL.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.dal\\knnapp.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{633096B2-4D58-4AD9-99E5-A713F5B5E969}|KnnApp.DAL\\KnnApp.DAL.csproj|solutionrelative:knnapp.dal\\knnapp.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C36059-81A4-4800-91BD-1F144BD7EE7A}|KnnApp.Core\\KnnApp.Core.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.core\\entityes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C36059-81A4-4800-91BD-1F144BD7EE7A}|KnnApp.Core\\KnnApp.Core.csproj|solutionrelative:knnapp.core\\entityes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{633096B2-4D58-4AD9-99E5-A713F5B5E969}|KnnApp.DAL\\KnnApp.DAL.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.dal\\context\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{633096B2-4D58-4AD9-99E5-A713F5B5E969}|KnnApp.DAL\\KnnApp.DAL.csproj|solutionrelative:knnapp.dal\\context\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,40 +83,12 @@
       "RelativeMoniker": "D:0:0:{633096B2-4D58-4AD9-99E5-A713F5B5E969}|KnnApp.DAL\\KnnApp.DAL.csproj|solutionrelative:knnapp.dal\\context\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D70B1E9-19BE-4DAA-834A-2E4C9483BCBA}|KnnApp.Business\\KnnApp.Business.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.business\\helper\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D70B1E9-19BE-4DAA-834A-2E4C9483BCBA}|KnnApp.Business\\KnnApp.Business.csproj|solutionrelative:knnapp.business\\helper\\mapper\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0643E33-613B-4D85-B39D-4D8DCE975996}|KnnApp.API\\KnnApp.API.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0643E33-613B-4D85-B39D-4D8DCE975996}|KnnApp.API\\KnnApp.API.csproj|solutionrelative:knnapp.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37C36059-81A4-4800-91BD-1F144BD7EE7A}|KnnApp.Core\\KnnApp.Core.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.core\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37C36059-81A4-4800-91BD-1F144BD7EE7A}|KnnApp.Core\\KnnApp.Core.csproj|solutionrelative:knnapp.core\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37C36059-81A4-4800-91BD-1F144BD7EE7A}|KnnApp.Core\\KnnApp.Core.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.core\\dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37C36059-81A4-4800-91BD-1F144BD7EE7A}|KnnApp.Core\\KnnApp.Core.csproj|solutionrelative:knnapp.core\\dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37C36059-81A4-4800-91BD-1F144BD7EE7A}|KnnApp.Core\\KnnApp.Core.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.core\\entityes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37C36059-81A4-4800-91BD-1F144BD7EE7A}|KnnApp.Core\\KnnApp.Core.csproj|solutionrelative:knnapp.core\\entityes\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0643E33-613B-4D85-B39D-4D8DCE975996}|KnnApp.API\\KnnApp.API.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0643E33-613B-4D85-B39D-4D8DCE975996}|KnnApp.API\\KnnApp.API.csproj|solutionrelative:knnapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{633096B2-4D58-4AD9-99E5-A713F5B5E969}|KnnApp.DAL\\KnnApp.DAL.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.dal\\migrations\\knnappdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{633096B2-4D58-4AD9-99E5-A713F5B5E969}|KnnApp.DAL\\KnnApp.DAL.csproj|solutionrelative:knnapp.dal\\migrations\\knnappdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.DAL\\Migrations\\20241222155922_categoryAndProductTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KnnApp.DAL\\Migrations\\20241222155922_categoryAndProductTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{633096B2-4D58-4AD9-99E5-A713F5B5E969}|KnnApp.DAL\\KnnApp.DAL.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.dal\\knnapp.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{633096B2-4D58-4AD9-99E5-A713F5B5E969}|KnnApp.DAL\\KnnApp.DAL.csproj|solutionrelative:knnapp.dal\\knnapp.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37C36059-81A4-4800-91BD-1F144BD7EE7A}|KnnApp.Core\\KnnApp.Core.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.core\\dtos\\product\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,6 +101,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{37C36059-81A4-4800-91BD-1F144BD7EE7A}|KnnApp.Core\\KnnApp.Core.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.core\\entityes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37C36059-81A4-4800-91BD-1F144BD7EE7A}|KnnApp.Core\\KnnApp.Core.csproj|solutionrelative:knnapp.core\\entityes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633096B2-4D58-4AD9-99E5-A713F5B5E969}|KnnApp.DAL\\KnnApp.DAL.csproj|c:\\users\\eyvaz\\source\\repos\\knnapp\\knnapp.dal\\migrations\\20241222155922_categoryandproducttables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633096B2-4D58-4AD9-99E5-A713F5B5E969}|KnnApp.DAL\\KnnApp.DAL.csproj|solutionrelative:knnapp.dal\\migrations\\20241222155922_categoryandproducttables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,7 +126,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Business\\Services\\Implementation\\CategoryService.cs",
+              "RelativeDocumentMoniker": "KnnApp.Business\\Services\\Implementation\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Business\\Services\\Implementation\\CategoryService.cs",
+              "RelativeToolTip": "KnnApp.Business\\Services\\Implementation\\CategoryService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:27:43.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Business\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "KnnApp.Business\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Business\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "KnnApp.Business\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:14:53.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.DAL\\Repositories\\\u0130mplementations\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "KnnApp.DAL\\Repositories\\\u0130mplementations\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.DAL\\Repositories\\\u0130mplementations\\CategoryRepository.cs",
+              "RelativeToolTip": "KnnApp.DAL\\Repositories\\\u0130mplementations\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:57:10.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CreateCategoryDTO.cs",
               "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Core\\DTOs\\Category\\CreateCategoryDTO.cs",
               "RelativeDocumentMoniker": "KnnApp.Core\\DTOs\\Category\\CreateCategoryDTO.cs",
@@ -86,12 +171,158 @@
               "RelativeToolTip": "KnnApp.Core\\DTOs\\Category\\CreateCategoryDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T15:57:56.967Z",
+              "WhenOpened": "2024-12-22T15:57:56.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusinessServiceRegisteration.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Business\\BusinessServiceRegisteration.cs",
+              "RelativeDocumentMoniker": "KnnApp.Business\\BusinessServiceRegisteration.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Business\\BusinessServiceRegisteration.cs",
+              "RelativeToolTip": "KnnApp.Business\\BusinessServiceRegisteration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:35:06.126Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "KnnApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.API\\Program.cs",
+              "RelativeToolTip": "KnnApp.API\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:07:24.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Business\\Helper\\Mapper\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "KnnApp.Business\\Helper\\Mapper\\AutoMapper.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Business\\Helper\\Mapper\\AutoMapper.cs*",
+              "RelativeToolTip": "KnnApp.Business\\Helper\\Mapper\\AutoMapper.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:06:52.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetCagegoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Core\\DTOs\\Category\\GetCagegoryDTO.cs",
+              "RelativeDocumentMoniker": "KnnApp.Core\\DTOs\\Category\\GetCagegoryDTO.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Core\\DTOs\\Category\\GetCagegoryDTO.cs",
+              "RelativeToolTip": "KnnApp.Core\\DTOs\\Category\\GetCagegoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:18:31.182Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "GetAllCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Core\\DTOs\\Category\\GetAllCategoryDTO.cs",
+              "RelativeDocumentMoniker": "KnnApp.Core\\DTOs\\Category\\GetAllCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Core\\DTOs\\Category\\GetAllCategoryDTO.cs",
+              "RelativeToolTip": "KnnApp.Core\\DTOs\\Category\\GetAllCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:18:49.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NegativeIdException.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Business\\Helper\\Exceptions\\Common\\NegativeIdException.cs",
+              "RelativeDocumentMoniker": "KnnApp.Business\\Helper\\Exceptions\\Common\\NegativeIdException.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Business\\Helper\\Exceptions\\Common\\NegativeIdException.cs",
+              "RelativeToolTip": "KnnApp.Business\\Helper\\Exceptions\\Common\\NegativeIdException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:29:21.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Core\\DTOs\\Category\\UpdateCategoryDTO.cs",
+              "RelativeDocumentMoniker": "KnnApp.Core\\DTOs\\Category\\UpdateCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Core\\DTOs\\Category\\UpdateCategoryDTO.cs",
+              "RelativeToolTip": "KnnApp.Core\\DTOs\\Category\\UpdateCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T15:58:00.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.DAL\\Repositories\\\u0130nterfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "KnnApp.DAL\\Repositories\\\u0130nterfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.DAL\\Repositories\\\u0130nterfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "KnnApp.DAL\\Repositories\\\u0130nterfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:23:29.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.DAL\\Repositories\\\u0130nterfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "KnnApp.DAL\\Repositories\\\u0130nterfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.DAL\\Repositories\\\u0130nterfaces\\IRepository.cs",
+              "RelativeToolTip": "KnnApp.DAL\\Repositories\\\u0130nterfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:12:36.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "KnnApp.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Business\\KnnApp.Business.csproj",
+              "RelativeDocumentMoniker": "KnnApp.Business\\KnnApp.Business.csproj",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Business\\KnnApp.Business.csproj",
+              "RelativeToolTip": "KnnApp.Business\\KnnApp.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T11:12:51.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.DAL\\Repositories\\\u0130mplementations\\Repository.cs",
+              "RelativeDocumentMoniker": "KnnApp.DAL\\Repositories\\\u0130mplementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.DAL\\Repositories\\\u0130mplementations\\Repository.cs",
+              "RelativeToolTip": "KnnApp.DAL\\Repositories\\\u0130mplementations\\Repository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:12:36.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Core\\Entityes\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "KnnApp.Core\\Entityes\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Core\\Entityes\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "KnnApp.Core\\Entityes\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:12:34.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Core\\Entityes\\Category.cs",
               "RelativeDocumentMoniker": "KnnApp.Core\\Entityes\\Category.cs",
@@ -99,12 +330,11 @@
               "RelativeToolTip": "KnnApp.Core\\Entityes\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T15:40:09.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T15:40:09.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 18,
               "Title": "CategoryConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.DAL\\Context\\Configurations\\CategoryConfiguration.cs",
               "RelativeDocumentMoniker": "KnnApp.DAL\\Context\\Configurations\\CategoryConfiguration.cs",
@@ -112,38 +342,11 @@
               "RelativeToolTip": "KnnApp.DAL\\Context\\Configurations\\CategoryConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T15:39:30.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T15:39:30.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.API\\Program.cs",
-              "RelativeDocumentMoniker": "KnnApp.API\\Program.cs",
-              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.API\\Program.cs",
-              "RelativeToolTip": "KnnApp.API\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T16:07:24.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AutoMapper.cs",
-              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Business\\Helper\\Mapper\\AutoMapper.cs",
-              "RelativeDocumentMoniker": "KnnApp.Business\\Helper\\Mapper\\AutoMapper.cs",
-              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Business\\Helper\\Mapper\\AutoMapper.cs",
-              "RelativeToolTip": "KnnApp.Business\\Helper\\Mapper\\AutoMapper.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T16:06:52.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 19,
               "Title": "ProductConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.DAL\\Context\\Configurations\\ProductConfiguration.cs",
               "RelativeDocumentMoniker": "KnnApp.DAL\\Context\\Configurations\\ProductConfiguration.cs",
@@ -151,25 +354,11 @@
               "RelativeToolTip": "KnnApp.DAL\\Context\\Configurations\\ProductConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T15:51:42.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T15:51:42.179Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UpdateCategoryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Core\\DTOs\\Category\\UpdateCategoryDTO.cs",
-              "RelativeDocumentMoniker": "KnnApp.Core\\DTOs\\Category\\UpdateCategoryDTO.cs",
-              "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Core\\DTOs\\Category\\UpdateCategoryDTO.cs",
-              "RelativeToolTip": "KnnApp.Core\\DTOs\\Category\\UpdateCategoryDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T15:58:00.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 20,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.API\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "KnnApp.API\\Controllers\\CategoryController.cs",
@@ -177,12 +366,11 @@
               "RelativeToolTip": "KnnApp.API\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T02:11:31.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T02:11:31.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 21,
               "Title": "KnnAppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.DAL\\Migrations\\KnnAppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "KnnApp.DAL\\Migrations\\KnnAppDbContextModelSnapshot.cs",
@@ -190,12 +378,11 @@
               "RelativeToolTip": "KnnApp.DAL\\Migrations\\KnnAppDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T16:01:45.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T16:01:45.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 25,
               "Title": "20241222155922_categoryAndProductTables.cs",
               "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.DAL\\Migrations\\20241222155922_categoryAndProductTables.cs",
               "RelativeDocumentMoniker": "KnnApp.DAL\\Migrations\\20241222155922_categoryAndProductTables.cs",
@@ -203,12 +390,11 @@
               "RelativeToolTip": "KnnApp.DAL\\Migrations\\20241222155922_categoryAndProductTables.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T15:59:23.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T15:59:23.099Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "UpdateProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Core\\DTOs\\Product\\UpdateProductDTO.cs",
               "RelativeDocumentMoniker": "KnnApp.Core\\DTOs\\Product\\UpdateProductDTO.cs",
@@ -216,12 +402,11 @@
               "RelativeToolTip": "KnnApp.Core\\DTOs\\Product\\UpdateProductDTO.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T15:57:23.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T15:57:23.075Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 23,
               "Title": "CreateProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Core\\DTOs\\Product\\CreateProductDTO.cs",
               "RelativeDocumentMoniker": "KnnApp.Core\\DTOs\\Product\\CreateProductDTO.cs",
@@ -229,12 +414,11 @@
               "RelativeToolTip": "KnnApp.Core\\DTOs\\Product\\CreateProductDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T15:56:02.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T15:56:02.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 24,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.Core\\Entityes\\Product.cs",
               "RelativeDocumentMoniker": "KnnApp.Core\\Entityes\\Product.cs",
@@ -242,21 +426,19 @@
               "RelativeToolTip": "KnnApp.Core\\Entityes\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T15:49:00.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T15:49:00.916Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "KnnApp.DAL",
+              "DocumentIndex": 16,
+              "Title": "KnnApp.DAL.csproj",
               "DocumentMoniker": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.DAL\\KnnApp.DAL.csproj",
               "RelativeDocumentMoniker": "KnnApp.DAL\\KnnApp.DAL.csproj",
               "ToolTip": "C:\\Users\\eyvaz\\source\\repos\\KnnApp\\KnnApp.DAL\\KnnApp.DAL.csproj",
               "RelativeToolTip": "KnnApp.DAL\\KnnApp.DAL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-22T15:39:12.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T15:39:12.737Z"
             }
           ]
         }

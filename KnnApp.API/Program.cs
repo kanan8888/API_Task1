@@ -1,4 +1,5 @@
 using FluentValidation.AspNetCore;
+using KnnApp.Business;
 using KnnApp.Core.DTOs.Category;
 using KnnApp.DAL.Context;
 using Microsoft.EntityFrameworkCore;
@@ -25,7 +26,9 @@ public class Program
         builder.Services.AddEndpointsApiExplorer();
         builder.Services.AddSwaggerGen();
 
-
+        //builder.Services.AddBusinessService();
+        builder.Services.AddAutoMapper(typeof(Business.Helper.Mapper.AutoMapper));
+        builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());                                                 //  !!! onemli hisse !!!
 
 
         builder.Services.AddDbContext<KnnAppDbContext>(opt =>
@@ -36,7 +39,6 @@ public class Program
 
 
 
-        builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());                                                 //  !!! onemli hisse !!!
 
 
         var app = builder.Build();

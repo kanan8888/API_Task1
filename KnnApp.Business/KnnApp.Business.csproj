@@ -14,4 +14,8 @@
     <ProjectReference Include="..\KnnApp.DAL\KnnApp.DAL.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Helper\Extentions\" />
+  </ItemGroup>
+
 </Project>

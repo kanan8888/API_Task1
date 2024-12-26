@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace KnnApp.Core.Entityes.Common;
-public class BaseEntity
+public abstract class BaseEntity
 {
     public int Id { get; set; }
 

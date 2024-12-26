@@ -37,6 +37,9 @@ public class CategoryController : ControllerBase
     {
         var category=_db.Categories.FirstOrDefault(c => c.Id == id);
         return category==null ? NotFound() : Ok(category); 
+
+
+
     }
 
     [HttpGet]

@@ -11,7 +11,8 @@ using System.Threading.Tasks;
 namespace KnnApp.Business.Helper.Mapper;
 public class AutoMapper : Profile
 {
-    protected AutoMapper()
+
+    public AutoMapper()
     {
         CreateMap<CreateCategoryDTO, Category>().ReverseMap();
         CreateMap<UpdateCategoryDTO, Category>().ReverseMap();
@@ -19,5 +20,6 @@ public class AutoMapper : Profile
         CreateMap<CreateProductDTO, Product>().ReverseMap();
         CreateMap<UpdateProductDTO, Product>().ReverseMap();
     }
+
 
 }

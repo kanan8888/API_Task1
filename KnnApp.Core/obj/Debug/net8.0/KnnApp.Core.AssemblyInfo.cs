@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KnnApp.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35d123b9149e4c9e6cc276a0e86ceb63dc3d138f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5b83450cf2e9a64c2d11b9ab97cf54c06a11f8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("KnnApp.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KnnApp.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
